@@ -3,6 +3,8 @@
 <p>
   Partindo do principio de que você já tenha o Docker instalado em sua máquina;<br>
   Siga os passos abaixo para que consiga rodar o projeto sem nenhuma dificuldade
+
+  ><strong>*Nota:</strong> Você também pode fazer o push direto do repositório no Dockerhub apenas rodando o comando `docker push devalefe/fullcycle`
 </p>
 
 ### Faça o clone do repositório:
